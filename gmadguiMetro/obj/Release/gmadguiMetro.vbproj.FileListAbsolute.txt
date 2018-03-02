@@ -1,0 +1,14 @@
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\bin\Release\gmadguiMetro.exe.config
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\bin\Release\gmadguiMetro.exe
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\bin\Release\gmadguiMetro.pdb
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\bin\Release\gmadguiMetro.xml
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\bin\Release\MetroFramework.dll
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\bin\Release\MetroFramework.Fonts.dll
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\obj\Release\gmadguiMetro.gmadStart.resources
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\obj\Release\gmadguiMetro.Resources.resources
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\obj\Release\gmadguiMetro.vbproj.GenerateResource.Cache
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\obj\Release\gmadguiMetro.vbproj.CoreCompileInputs.cache
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\obj\Release\gmadguiMetro.exe
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\obj\Release\gmadguiMetro.xml
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\obj\Release\gmadguiMetro.pdb
+C:\Users\viktor\source\repos\gmadguiMetro\gmadguiMetro\obj\Release\gmadguiMetro.vbprojResolveAssemblyReference.cache
